@@ -2,8 +2,8 @@
 
 ## Table of Contents
 - [Overview](#overview)
-- [Dataset Information](#dataset information)
-- [Tools Used](#tools used)
+- [Dataset Information](#datasetinformation)
+- [Tools Used](#toolsused)
 - [Objective](#objective)
 - [Process](#process)
 - [License](#license)
