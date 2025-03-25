@@ -6,7 +6,7 @@
 - [Tools Used](#toolsused)
 - [Objective](#objective)
 - [Process](#process)
-- [License](#license)
+
 
 ## Overview
 The dashboard aims to enhance workplace safety, improve employee well-being, and optimize productivity by analysing accidents, 
